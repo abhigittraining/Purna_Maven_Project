@@ -86,11 +86,11 @@
 			<version>2.6</version>
 		</dependency>
 
-		<dependency>
+<!-- 		<dependency>
 			<groupId>com</groupId>
 			<artifactId>mvn-project</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>  -->
 	</dependencies>
 
 	<build>
@@ -117,8 +117,6 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
-			
-					
 			
 		</plugins>
 	</build>
